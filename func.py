@@ -2,7 +2,7 @@ from os import system
 playing = True
 
 def info():
-    print("\t\tSimple Black Jack Game\t\t\n\t\tCreated By Yash Gajera\n")
+    print("\t\t Simple Blackjack Game \t\t\n\t\tCreated By Yash Gajera\n")
 
 def buyin():
     print("Specify the amount of chips you would like to buy-in.")
